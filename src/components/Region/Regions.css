@@ -1,0 +1,9 @@
+.region a {
+    text-decoration: none;
+    padding: 10px;
+    background: lightgray;
+    margin: 0 10px;
+    color: #333;
+    font-weight: 600;
+    text-transform: uppercase;
+}

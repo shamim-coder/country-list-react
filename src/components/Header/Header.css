@@ -1,0 +1,10 @@
+nav ul {
+    list-style: none;
+    display: flex;
+}
+nav ul a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    text-transform: uppercase;
+}

@@ -1,0 +1,9 @@
+.country {
+    text-align: center;
+    margin-top: 20px;
+}
+.country-img {
+    width: 500px;
+    border: 1px solid;
+    padding: 10px;
+}
